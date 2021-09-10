@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on Cloud architecture & developing
 - 📫 You can reach me @ 
-Basem.khattab@hotmail.com /
-Basem.khattab@knowit.se
+Basem.khattab@knowit.se /
+Basem.khattab@hotmail.com
 
 <!---
 Bas3m/Bas3m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
