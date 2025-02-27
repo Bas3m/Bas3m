@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on Cloud architecture & developing
 - 📫 You can reach me @ 
-Basem.khattab@knowit.se /
+Bkha@dsb.dk /
 Basem.khattab@hotmail.com
 
 <!---
